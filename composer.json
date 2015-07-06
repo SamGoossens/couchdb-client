@@ -1,5 +1,5 @@
 {
-    "name": "samgoossens/couchdb",
+    "name": "cognosis/couchdb",
     "type": "library",
     "description": "CouchDB Client",
     "keywords": ["persistence", "couchdb"],
